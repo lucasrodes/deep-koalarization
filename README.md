@@ -1,3 +1,15 @@
+![](static/images/historical.jpg)
+
+<div><hr></div>
+## Abstract
+We review some of the most recent approaches to colorize gray-scale images using deep learning methods. Inspired by these, we propose a model which combines a deep Convolutional Neural Network trained from scratch with high-level features extracted from Inception-ResNet-v2 pre-trained model. Thanks to its fully convolutional architecture, our encoder-decoder model can process images of any size and aspect ratio. Other than presenting the training results, we assess the "public acceptance" of the generated images by means of a user study. Finally, we present a carousel of applications on different types of images, such as historical photographs.
+
+![](static/images/net.png)
+
+<div><hr></div>
+
+## Authors
+
 <table align="center">
       <tfoot>
         <tr>
@@ -8,46 +20,67 @@
       </tfoot>
       <tbody>
         <tr>
-          <td><img src="imgs/federico.jpg" width="160" height="160"></td>
-          <td><img src="imgs/lucas.jpg" width="160" height="160"></td>
-          <td><img src="imgs/diego.jpg" width="160" height="160"></td>
+          <td><img src="static/images/federico.jpg" width="160" height="160"></td>
+          <td><img src="static/images/lucas.jpg" width="160" height="160"></td>
+          <td><img src="static/images/diego.jpg" width="160" height="160"></td>
         </tr>
       </tbody>
 </table>
 
 <div><hr></div>
 
-![](static/images/net.png)
-
-<div><hr></div>
-## Abstract
-We review some of the most recent approaches to colorize gray-scale images using deep learning methods. Inspired by these, we propose a model which combines a deep Convolutional Neural Network trained from scratch with high-level features extracted from Inception-ResNet-v2 pre-trained model. Thanks to its fully convolutional architecture, our encoder-decoder model can process images of any size and aspect ratio. Other than presenting the training results, we assess the "public acceptance" of the generated images by means of a user study. Finally, we present a carousel of applications on different types of images, such as historical photographs.
-
-<div><hr></div>
-## Paper
-
-```
-@inproceedings{deepkoal2017,
-  author = {Baldassarre, Federico and Rodes-Guirao, Lucas and Gonzalez Moring, Diego},
-  title = {Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2},
- keywords = {Colorization, CNN, Inception-ResNet-v2, Transfer Learning, Keras, TensorFlow},
-booktitle = {eprint arXiv:q-alg/9503002},
-     year = 2017,
-    month = Dec
-}
-```
-
-[[arxiv preprint]()]
-
-<div><hr></div>
 ## Code
 A TensorFlow/Keras implementation of Deep-Koalarization is available on [Github](https://github.com/baldassarrefe/deep-koalarization).
 
 <a class="github-button" href="https://github.com/baldassarrefe/deep-koalarization" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star baldassarrefe/deep-koalarization on GitHub">Star</a>
 
 <div><hr></div>
+
+
+
+## Paper
+
+<style type="text/css">
+#wrap {
+   width:800px;
+   margin:0 auto;
+}
+#left_col {
+   float:left;
+   width:150;
+}
+#right_col {
+   float:right;
+   width:650px;
+}
+</style>
+
+<div id="wrap">
+  <div id="left_col">
+      <a href="https://github.com/baldassarreFe/deep-koalarization/blob/master/paper.pdf">
+        <img src="static/images/paper-icon.png" width="140" height="180">
+      </a>
+  </div>
+<div id="right_col">
+<pre> <code> 
+@inproceedings{deepkoal2017,
+  author = {Baldassarre, Federico and Rodes-Guirao, Lucas and Gonzalez Moring, Diego},
+  title = {Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2},
+  keywords = {Colorization, CNN, Inception-ResNet-v2, Transfer Learning, Keras, TensorFlow},
+  booktitle = {eprint arXiv:q-alg/9503002},
+  year = 2017,
+  month = Dec
+}</code> </pre>
+</div>
+</div>
+
+
+[arXiv preprint](https://github.com/baldassarreFe/deep-koalarization/blob/master/paper.pdf)
+
+
+
 ## Acknowledgement
-We would like to thank Prof. [Josephine Sullivan](www.csc.kth.se/~sullivan/) for supervising our work. Furthermore, we also want to point out that our network was trained and tested using the Tegner nodes of the [PDC Center for High-Performance Computing](http://pdc.kth.se) at the [KTH Royal Institute of Technology](http://kth.se), leveraging the [NVIDIA® CUDA® Toolkit](https://dl.acm.org/citation.cfm?id=1365500) and the NVIDIA® Tesla® K80 Accelerator GPU to speed up the computations.
+We would like to thank Prof. [Josephine Sullivan](www.csc.kth.se/~sullivan/) for supervising our work. We also want to point out that our network was trained and tested using the Tegner nodes of the [PDC Center for High-Performance Computing](http://pdc.kth.se) at the [KTH Royal Institute of Technology](http://kth.se), leveraging the [NVIDIA® CUDA® Toolkit](https://dl.acm.org/citation.cfm?id=1365500) and the NVIDIA® Tesla® K80 Accelerator GPU to speed up the computations.
 <div><hr></div>
 
 
