@@ -20,9 +20,9 @@ We review some of the most recent approaches to colorize gray-scale images using
       </tfoot>
       <tbody>
         <tr>
-          <td><img src="static/images/federico.jpg" width="160" height="160"></td>
-          <td><img src="static/images/lucas.jpg" width="160" height="160"></td>
-          <td><img src="static/images/diego.jpg" width="160" height="160"></td>
+          <td><img src="static/images/federico.jpg"></td>
+          <td><img src="static/images/lucas.jpg"></td>
+          <td><img src="static/images/diego.jpg"></td>
         </tr>
       </tbody>
 </table>
@@ -55,28 +55,19 @@ A TensorFlow/Keras implementation of Deep-Koalarization is available on [Github]
 }
 </style>
 
-<div id="wrap">
-  <div id="left_col">
-      <a href="https://github.com/baldassarreFe/deep-koalarization/blob/master/paper.pdf">
-        <img src="static/images/paper-icon.png" width="140" height="180">
-      </a>
-  </div>
-<div id="right_col">
-<pre> <code> 
+
+<pre><code> 
 @inproceedings{deepkoal2017,
   author = {Baldassarre, Federico and Rodes-Guirao, Lucas and Gonzalez Moring, Diego},
   title = {Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2},
   keywords = {Colorization, CNN, Inception-ResNet-v2, Transfer Learning, Keras, TensorFlow},
-  booktitle = {eprint arXiv:q-alg/9503002},
+  booktitle = {to be updated},
   year = 2017,
   month = Dec
-}</code> </pre>
-</div>
-</div>
-
+}
+</code> </pre>
 
 [arXiv preprint](https://github.com/baldassarreFe/deep-koalarization/blob/master/paper.pdf)
-
 
 
 ## Acknowledgement
