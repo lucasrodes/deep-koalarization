@@ -85,8 +85,11 @@ A TensorFlow/Keras implementation of Deep-Koalarization is available on [Github]
 
 ## Acknowledgement
 We would like to thank Prof. [Josephine Sullivan](http://www.csc.kth.se/~sullivan/) for supervising our work. Furthermore, we also want to point out that our network was trained and tested using the Tegner nodes of the [PDC Center for High-Performance Computing](http://pdc.kth.se) at the [KTH Royal Institute of Technology](http://kth.se), leveraging the [NVIDIA® CUDA® Toolkit](https://dl.acm.org/citation.cfm?id=1365500) and the NVIDIA® Tesla® K80 Accelerator GPU to speed up the computations.
-<div><hr></div>
 
+
+<a href="https://www.kth.se"> <img src="static/images/kth.jpg" width="100" height="100"> </a>
+
+<div><hr></div>
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" <a href="https://twitter.com/jekyllrb?ref_src=twsrc%5Etfw"></a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/fchollet/status/917846097430638592"></a></blockquote>
 
