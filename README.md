@@ -70,17 +70,20 @@ A TensorFlow/Keras implementation of Deep-Koalarization is available on [Github]
 
 
 <pre><code> 
-@inproceedings{deepkoal2017,
-  author = {Baldassarre, Federico and Rodes-Guirao, Lucas and Gonzalez Moring, Diego},
-  title = {Deep Koalarization: Image Colorization using CNNs and Inception-ResNet-v2},
-  keywords = {Colorization, CNN, Inception-ResNet-v2, Transfer Learning, Keras, TensorFlow},
-  booktitle = {to be updated},
-  year = 2017,
-  month = Dec
+@article{deepkoal2017,
+  author = {Federico Baldassarre, 
+            Diego Gonzalez-Morin, 
+            Lucas Rodes-Guirao},
+  title = {Deep-Koalarization: Image Colorization using CNNs and Inception-ResNet-v2},
+  year      = {2017},
+  url       = {https://arxiv.org/abs/1712.03400},
+  archivePrefix = {arXiv},
+  eprint    = {1712.03400},
+  timestamp = {Sat, 9 Dec 2017},
 }
 </code> </pre>
 
-[arXiv preprint](https://github.com/baldassarreFe/deep-koalarization/blob/master/paper.pdf)
+[arXiv preprint](https://arxiv.org/abs/1712.03400)
 
 
 ## Acknowledgement
