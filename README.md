@@ -1,3 +1,6 @@
+
+<!--<script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script><script type="IN/Share" data-url="lcsrg.me/deep-koalarization"></script><a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=">Tweet</a>-->
+
 ![](static/images/historical.jpg)
 
 <!-- Place this tag where you want the button to render. 
@@ -19,15 +22,24 @@ We review some of the most recent approaches to colorize gray-scale images using
         <tr>
           <th><p><a href="https://www.linkedin.com/in/federicobaldassarre/">Federico Baldassarre</a></p>
           <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="http://github.com/baldassarrefe" data-size="large" aria-label="Follow @baldassarrefe on GitHub">@baldassarrefe</a>
+<a class="github-button" href="http://github.com/baldassarrefe" aria-label="Follow @baldassarrefe on GitHub">@baldassarrefe</a>
+<a class="twitter-follow-button"
+  href="https://twitter.com/BaldassarreFe"
+  data-show-count="false"
+  data-show-screen-name="false">
+  </a>
 </th>
-          <th><p><a href="https://www.linkedin.com/in/lucasrodes/">Lucas Rodés-Guirao</a></p>
+          <th><p><a href="https://www.lcsrg.me/">Lucas Rodés-Guirao</a></p>
           <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="http://github.com/lucasrodes" data-size="large" aria-label="Follow @lucasrodes on GitHub">@lucasrodes</a>
+<a class="github-button" href="http://github.com/lucasrodes" aria-label="Follow @lucasrodes on GitHub">@lucasrodes</a>
+<a class="twitter-follow-button"
+  href="https://twitter.com/lucasrodesg"
+  data-show-count="false"
+  data-show-screen-name="false"></a>
 </th>
           <th><p><a href="https://www.linkedin.com/in/diegomorin/">Diego González Morín</a></p>
           <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/diegomorin8" data-size="large" aria-label="Follow @diegomorin8 on GitHub">@diegomorin8</a>
+<a class="github-button" href="https://github.com/diegomorin8" aria-label="Follow @diegomorin8 on GitHub">@diegomorin8</a>
 </th>
         </tr>
       </tfoot>
