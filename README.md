@@ -93,7 +93,8 @@ A TensorFlow/Keras implementation of Deep-Koalarization is available on [Github]
 }
 </code> </pre>
 
-[arXiv e-print](https://arxiv.org/abs/1712.03400)
+
+<a href="arXiv e-print" target="_blank">https://arxiv.org/abs/1712.03400</a>
 
 
 ## Acknowledgement
