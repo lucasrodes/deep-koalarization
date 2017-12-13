@@ -113,5 +113,3 @@ We would like to thank Prof. [Josephine Sullivan](http://www.csc.kth.se/~sulliva
 <div style="position: absolute; top: 3px; left: 2%; width: 10px; text-align:right;">
     <a href="http://lcsrg.me">home</a>
   </div>
-
-[home](http://lcsrg.me)
