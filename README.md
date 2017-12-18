@@ -29,7 +29,7 @@ We review some of the most recent approaches to colorize gray-scale images using
   data-show-screen-name="false">
   </a>
 </th>
-          <th><p><a href="https://www.lcsrg.me/">Lucas Rodés-Guirao</a></p>
+          <th><p><a href="http://www.lcsrg.me/">Lucas Rodés-Guirao</a></p>
           <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="http://github.com/lucasrodes" aria-label="Follow @lucasrodes on GitHub">@lucasrodes</a>
 <a class="twitter-follow-button"
