@@ -29,7 +29,7 @@ We review some of the most recent approaches to colorize gray-scale images using
   data-show-screen-name="false">
   </a>
 </th>
-          <th><p><a href="http://linkedin.com/lucasrodes">Lucas Rodés-Guirao</a></p>
+          <th><p><a href="http://linkedin.com/in/lucasrodes">Lucas Rodés-Guirao</a></p>
           <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="http://github.com/lucasrodes" aria-label="Follow @lucasrodes on GitHub">@lucasrodes</a>
 <a class="twitter-follow-button"
@@ -37,7 +37,11 @@ We review some of the most recent approaches to colorize gray-scale images using
   data-show-count="false"
   data-show-screen-name="false"></a>
 <a class="linkedin-follow-button"
-  href="https://linkedin.com/lucasrodesg"></a>
+  href="https://linkedin.com/in/lucasrodes"></a>
+<a class="linkedin-button"
+  href="https://linkedin.com/in/lucasrodes"></a>
+<a class="linkedin"
+  href="https://linkedin.com/in/lucasrodes"></a>
 </th>
           <th><p><a href="https://www.linkedin.com/in/diegomorin/">Diego González Morín</a></p>
           <!-- Place this tag where you want the button to render. -->
