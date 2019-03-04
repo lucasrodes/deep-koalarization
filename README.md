@@ -36,9 +36,9 @@ We review some of the most recent approaches to colorize gray-scale images using
   href="https://twitter.com/lucasrodesg"
   data-show-count="false"
   data-show-screen-name="false"></a>
-<a class="linkedin-follow-button"
+<a class="fa fa-linkedin-square"
   href="https://linkedin.com/in/lucasrodes"></a>
-<a class="linkedin-button"
+<a class="fa-linkedin-square"
   href="https://linkedin.com/in/lucasrodes"></a>
 <a class="linkedin"
   href="https://linkedin.com/in/lucasrodes"></a>
