@@ -40,8 +40,9 @@ We review some of the most recent approaches to colorize gray-scale images using
   href="https://linkedin.com/in/lucasrodes"></a>
 <a class="fa-linkedin-square"
   href="https://linkedin.com/in/lucasrodes"></a>
-<a class="linkedin"
-  href="https://linkedin.com/in/lucasrodes"></a>
+<button type="button" class="btn btn-brand btn-linkedin" href="https://linkedin.com/in/lucasrodes">
+  <i class="fa fa-linkedin"></i><span>Lucas Rodés-Guirao</span>
+</button>
 </th>
           <th><p><a href="https://www.linkedin.com/in/diegomorin/">Diego González Morín</a></p>
           <!-- Place this tag where you want the button to render. -->
